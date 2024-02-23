@@ -2,7 +2,7 @@
 
 ## Hi, I'm Faisal! 👋
 
-A Frontend **Developer** with a foundation in Computer Science, I specialize in HTML, CSS, JavaScript, and React JS for creating responsive websites. My focus is on delivering high-quality, user-centric web experiences.
+A Frontend Developer with a foundation in Computer Science, I specialize in HTML, CSS, JavaScript, and React JS for creating responsive websites. My focus is on delivering high-quality, user-centric web experiences.
 
 ## Tech I Know
 
