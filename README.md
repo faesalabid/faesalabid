@@ -1,4 +1,4 @@
-.![MasterHead](https://raw.githubusercontent.com/faesalabid/faesalabid/main/readme.gif)
+.![MasterHead](https://raw.githubusercontent.com/faesalabid/faesalabid/main/readme%20banner.gif)
 
 ## Hi, I'm Faisal! 👋
 
