@@ -1,6 +1,6 @@
-![MasterHead](https://raw.githubusercontent.com/faesalabid/faesalabid/main/readme%20banner.gif)
-
 ## Hi, I'm Faisal! 👋
+
+![MasterHead](https://raw.githubusercontent.com/faesalabid/faesalabid/main/readme%20banner.gif)
 
 A Frontend Developer with a foundation in Computer Science, I specialize in HTML, CSS, JavaScript, and React JS for creating responsive websites. My focus is on delivering high-quality, user-centric web experiences.
 
