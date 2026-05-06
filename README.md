@@ -1,6 +1,6 @@
 ## Hi, I'm Faisal!👋
 
-A Frontend Developer with a foundation in Computer Science, I specialize in HTML, CSS, JavaScript, and React JS for creating responsive websites. My focus is on delivering high-quality, user-centric web experiences.
+A Frontend Developer with a foundation in Computer Science, I specialize in HTML, CSS, JavaScript, and React JS for creating responsive websites.
 
 ![MasterHead](https://raw.githubusercontent.com/faesalabid/faesalabid/main/readme%20banner.gif)
 
@@ -17,11 +17,5 @@ A Frontend Developer with a foundation in Computer Science, I specialize in HTML
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![neextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-## Let's Connect
-
-[![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://faesal.in/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/faesalabid)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faesalabid/)
 
 
